@@ -19,6 +19,10 @@ button {
   margin-left: 156px;
   border-radius: 5px;
 }
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
 /* header style  */
 .header-section {
   background-color: #2d25a0;
